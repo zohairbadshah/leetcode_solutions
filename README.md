@@ -1,4 +1,4 @@
-# Python & C++ Solutions for Leetcode 
+# Python & C++ Solutions for Leetcode/InterviewBit 
 
 | # | Title | Solution | Basic idea (One line) |
 |---| ----- | -------- | --------------------- |
